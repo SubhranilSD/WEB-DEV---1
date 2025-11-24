@@ -1,1 +1,52 @@
+Portfolio Website
 
+Responsive Portfolio Website using HTML & CSS
+
+Description
+
+This project is a beginner-friendly personal portfolio website built using HTML and CSS.
+It includes the following sections:
+
+Header & Navigation
+Hero Section with Animated Text
+About Me
+Projects
+Skills Table
+Contact Form
+Footer
+Back to Top Button
+
+The website uses Flexbox, CSS transitions, and animation effects.
+It is fully responsive and adjusts smoothly across various screen sizes.
+
+Steps to View Responsive Behavior
+
+To test how the website adjusts on different screen sizes:
+Open Developer Tools
+Right-click → Inspect
+Click the device toolbar icon (top-left in DevTools)
+Test These Breakpoints (Manually Tested)
+
+Device Type	Width Tested	Behavior
+Mobile	320px – 480px	Sections stack vertically, text and buttons stay centered, hero image moves below text
+Tablet	768px	Two-column areas compress nicely, navigation links stay aligned, hero keeps spacing
+Small Laptop	1024px	Layout expands, grids align cleanly, image and text fit side-by-side
+Desktop	1366px and above	Full-width layout with comfortable spacing, hero image and text remain properly aligned
+Try Rotating (Landscape / Portrait)
+
+This helps verify adaptive spacing, text wrapping, and card layout.
+
+Resize Browser Window
+Drag the browser edges to see smooth transitions for:
+Grid cards
+Navigation links
+Hero alignment
+Form fields
+
+Technologies Used
+
+HTML5
+CSS3
+Flexbox
+CSS Animations
+Responsive Design (Media Queries)
